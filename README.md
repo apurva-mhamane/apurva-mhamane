@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurva-mhamane&label=Profile%20views&color=0e75b6&style=flat" alt="apurva-mhamane" /> </p>
 
 <h2 align="left">💕About Me </h2>
-- 👀 I'm a coding enthusiast, and detail-oriented software developer🌟
-- 👩🏻‍💻 Full stack web and android developer
+* 👀 I'm a coding enthusiast, and detail-oriented software developer🌟
+* 👩🏻‍💻 Full stack web and android developer
 - 🎓 Third year B.Tech in Computer Engineering
 - 💻 Internships @insys_technologies @ineuron @kjsit_intern
 - 📫 How to reach me - apurva.mhamane2@gmail.com
