@@ -4,7 +4,7 @@
 - 🎓 Third year B.Tech in Computer Engineering
 - 💻 Internships @insys_technologies @ineuron @kjsit_intern
 - 📫 How to reach me ...
-- 
+<hr>
 
 
 
