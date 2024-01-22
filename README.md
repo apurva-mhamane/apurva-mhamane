@@ -3,7 +3,7 @@
 <h3 align="center">I'm a coding enthusiast, and detail-oriented software developer🌟</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurva-mhamane&label=Profile%20views&color=0e75b6&style=flat" alt="apurva-mhamane" /> </p>
 
-<h3 align="left">💕About Me </h3>
+<h2 align="left">💕About Me </h2>
 - 👀 I'm a coding enthusiast, and detail-oriented software developer🌟
 - 👩🏻‍💻 Full stack web and android developer
 - 🎓 Third year B.Tech in Computer Engineering
