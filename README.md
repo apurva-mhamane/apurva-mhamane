@@ -66,10 +66,7 @@ Technical Lead at GDSC-KJSIT
 
 - ♟️ Professional chess player and coach
 
-Codeforces
 
-Connect with me :
-Pruthviraj Patil Website   Pruthviraj Patil Twitter   Somaiya Email   Pruthviraj Patil  pruthvi905 pruthvirajppruthvirajp Chesscom Pruthviraj Chesscom Pruthviraj Lichess Pruthviraj
 
 
 Languages and tools :
