@@ -9,7 +9,7 @@
   <li>👩🏻‍💻 Full stack web and android developer</li>
   <li>🎓 Third year B.Tech in Computer Engineering</li>
   <li>💻 Internships @insys_technologies @ineuron @kjsit_intern</li>
-  <li>📫 How to reach me **apurva.mhamane2@gmail.com**
+  <li>📫 How to reach me apurva.mhamane2@gmail.com</li>
  </li>
 </u>
 
