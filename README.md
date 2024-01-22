@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Apurva Mhamane ! 🚀</h1>
 <h3 align="center">I'm a coding enthusiast, and detail-oriented software developer🌟</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurva-mhamane&label=Profile%20views&color=0e75b6&style=flat" alt="apurva-mhamane" /> </p>
-<br>
 
 <h2 align="left">💕About Me </h2>
 <u>
@@ -29,7 +28,7 @@
   
 <h2 align="left">🌈 Soft Skills & Potions </h2>
 Problem-Solving 🧠, Customer Focus 🎯, Learning Agility 📚, Adaptability 🌍, Continuous Improvement 🔄, Time Management ⌛, Collaboration 👫, Communication 📢, Leadership 🚀
-<br> 
+<br><br> 
 
 <h2 align="left">🎉 Activities & Side Quests </h2>
 <ul>
