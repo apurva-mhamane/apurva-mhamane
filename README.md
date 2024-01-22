@@ -9,7 +9,7 @@
 - 🎓 Third year B.Tech in Computer Engineering
 - 💻 Internships @insys_technologies @ineuron @kjsit_intern
 - 📫 How to reach me ...
-<hr>
+
 
 <h3 align="left">🔧 Tech Toolbox </h3>
 - Languages: C, C++, Java, JavaScript, R, Python, C 🚀
