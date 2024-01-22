@@ -1,7 +1,8 @@
   ![image](https://github.com/apurva-mhamane/apurva-mhamane/assets/131534195/a871f298-a75f-4dc6-bb51-33113a729e20)
 <hr>
 
-<h1><b> 👋 Hey there! 👋 I'm Apurva Mhamane! 🚀 </b></h1>
+<h1 align="center">Hi 👋, I'm Apurva Mhamane ! 🚀</h1>
+<h3 align="center">I'm a coding enthusiast, and detail-oriented software developer🌟</h3>
 
 - 👀 I'm a coding enthusiast, and detail-oriented software developer🌟
 - 👩🏻‍💻 Full stack web and android developer
